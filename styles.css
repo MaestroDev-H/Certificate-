@@ -7,7 +7,7 @@ body {
     height: 297mm;
     padding: 10mm;
     border: 50px solid transparent;
-    border-image: url('/images/Border.png') 100 round;
+    border-image: url('./images/Border.png') 100 round;
     position: relative;
     box-sizing: border-box;
 }
